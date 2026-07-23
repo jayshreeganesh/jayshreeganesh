@@ -24,29 +24,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Tech Stack Matrix Portfolio
 
-<details open>
-<summary><b>🐘 Core / Native PHP Projects (11 Projects)</b></summary>
-<br>
-
-| # | Project Name | Core PHP | Laravel | React | Next.js |
-|:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | **Medical & Health Website CMS** | <a href="https://github.com/jayshreeganesh/Build-a-Medical-Health-Website-CMS-with-PHP-MySQL" target="_blank" title="Build-a-Medical-Health-Website-CMS-with-PHP-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Medical-Health-CMS" target="_blank" title="Laravel-12-Medical-Health-CMS">🔗</a> | | |
-| 2 | **Complete Job Portal Website** | <a href="https://github.com/jayshreeganesh/Build-a-Complete-Job-Portal-Website-using-PHP-MySQL" target="_blank" title="Build-a-Complete-Job-Portal-Website-using-PHP-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Build-an-Advanced-Job-Portal-Website" target="_blank" title="Laravel-12-Build-an-Advanced-Job-Portal-Website">🔗</a> | | |
-| 3 | **Ecommerce Website** | <a href="https://github.com/jayshreeganesh/Build-an-Ecommerce-Website-with-PHP-MySQL" target="_blank" title="Build-an-Ecommerce-Website-with-PHP-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Build-Complete-Ecommerce-Store" target="_blank" title="Laravel-12-Build-Complete-Ecommerce-Store">🔗</a> | | |
-| 4 | **Blood Bank Management Website** | <a href="https://github.com/jayshreeganesh/Blood-Bank-Management-Website-using-PHP-and-MySQL" target="_blank" title="Blood-Bank-Management-Website-using-PHP-and-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Blood-Bank-Management-Website" target="_blank" title="Laravel-12-Blood-Bank-Management-Website">🔗</a> | | |
-| 5 | **Personal Book Author Website** | <a href="https://github.com/jayshreeganesh/Personal-Book-Author-Website-Ecommerce-using-PHP" target="_blank" title="Personal-Book-Author-Website-Ecommerce-using-PHP">🔗</a> | | | |
-| 6 | **Online Multi Doctor Appointment** | <a href="https://github.com/jayshreeganesh/Online-Multi-Doctor-Appointment-System-with-PHP-MySQL" target="_blank" title="Online-Multi-Doctor-Appointment-System-with-PHP-MySQL">🔗</a> | | | |
-| 7 | **News Portal Website** | <a href="https://github.com/jayshreeganesh/Build-a-News-Portal-Website-with-PHP-MySQL" target="_blank" title="Build-a-News-Portal-Website-with-PHP-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Build-News-Portal-and-Magazine-Website" target="_blank" title="Laravel-12-Build-News-Portal-and-Magazine-Website">🔗</a> | | |
-| 8 | **Single Event Management Website** | <a href="https://github.com/jayshreeganesh/Build-Single-Event-Management-Website-with-PHP-MySQL" target="_blank" title="Build-Single-Event-Management-Website-with-PHP-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Making-a-Single-Event-Management-Website" target="_blank" title="Laravel-12-Making-a-Single-Event-Management-Website">🔗</a> | | |
-| 9 | **Real Estate Management System** | <a href="https://github.com/jayshreeganesh/Build-Real-Estate-Management-System-with-PHP-MySQL" target="_blank" title="Build-Real-Estate-Management-System-with-PHP-MySQL">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Making-a-Complete-Real-Estate-Management-System" target="_blank" title="Laravel-12-Making-a-Complete-Real-Estate-Management-System">🔗</a> | | |
-| 10 | **Complete LMS System** | <a href="https://github.com/jayshreeganesh/PHP-SQLite-Making-a-Complete-Learning-Management-System" target="_blank" title="PHP-SQLite-Making-a-Complete-Learning-Management-System">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Build-a-Complete-Learning-Management-System-LMS" target="_blank" title="Laravel-12-Build-a-Complete-Learning-Management-System-LMS">🔗</a> | | |
-| 11 | **Newsletter Signup System** | <a href="https://github.com/jayshreeganesh/Newsletter-Signup-using-PHP-MySQL-Ajax-Bootstrap-5" target="_blank" title="Newsletter-Signup-using-PHP-MySQL-Ajax-Bootstrap-5">🔗</a> | | | |
-
-</details>
-
 ---
 
-<details>
+<details open>
 <summary><b>🌐 Full-Stack Projects (30 Projects)</b></summary>
 <br>
 
