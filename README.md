@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Ganesh Kale
+
+### A passionate full-stack developer from India
+
+- 🌱 I’m currently **Building Projects** and learning/upskilling **Technology/Frameworks/Language etc.**
+- 👨‍💻 All of my projects are available at https://github.com/jayshreeganesh
+- 📫 How to reach me: **jayshreeganesh333@gmail.com**
+
+---
+
