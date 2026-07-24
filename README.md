@@ -22,6 +22,17 @@ Here are some ideas to get you started:
 
 ---
 
+### 🧩 LeetCode & Problem Solving Repositories
+
+| # | Repository Name | Description | Link |
+|---|---|---|---|
+| 1 | **LeetCode SQL 50** | 50 Essential SQL problems (Basic to Intermediate) | [View Repo](https://github.com/jayshreeganesh/leetcode-sql-50) |
+| 2 | **LeetCode Database Premium** | Solutions for LeetCode Database Premium problem set | [View Repo](https://github.com/jayshreeganesh/leetcode-database-premium) |
+| 3 | **SQL Database LeetCode** | Solutions & practices for SQL Database questions | [View Repo](https://github.com/jayshreeganesh/SQL-Database-LeetCode) |
+| 4 | **LeetCode Advanced SQL 50** | Solutions for Advanced SQL 50 problem set | [View Repo](https://github.com/jayshreeganesh/Leetcode-Advanced-SQL-50) |
+| 5 | **LeetCode Daily** | Daily problem-solving solutions & logs | [View Repo](https://github.com/jayshreeganesh/leetcode-daily) |
+---
+
 ## 🚀 Tech Stack Matrix Portfolio
 
 ---
