@@ -75,3 +75,136 @@ Here are some ideas to get you started:
 | 30 | **Complete Forum with Admin Panel** | <a href="https://github.com/jayshreeganesh/PHP-SQLite-Build-Complete-Forum-with-Admin-Panel" target="_blank" title="PHP-SQLite-Build-Complete-Forum-with-Admin-Panel">🔗</a> | <a href="https://github.com/jayshreeganesh/CodeIgniter-4-Complete-Forum-with-Admin-Panel" target="_blank" title="CodeIgniter-4-Complete-Forum-with-Admin-Panel">🔗</a> | <a href="https://github.com/jayshreeganesh/CakePHP-5-Build-Complete-Forum-with-Admin-Panel" target="_blank" title="CakePHP-5-Build-Complete-Forum-with-Admin-Panel">🔗</a> | <a href="https://github.com/jayshreeganesh/Laravel-12-Build-Complete-Forum-with-Admin-Panel" target="_blank" title="Laravel-12-Build-Complete-Forum-with-Admin-Panel">🔗</a> | <a href="https://github.com/jayshreeganesh/react-19-build-complete-forum-with-admin-panel" target="_blank" title="react-19-build-complete-forum-with-admin-panel">🔗</a> | <a href="https://github.com/jayshreeganesh/nextjs-16-build-complete-forum-with-admin-panel" target="_blank" title="nextjs-16-build-complete-forum-with-admin-panel">🔗</a> |
 
 </details>
+
+---
+
+<details>
+<summary><h3>🚀 120 React Projects Challenge (Click to Expand)</h3></summary>
+<br>
+
+I have recently completed an epic marathon of 120 React projects to master frontend development, state management, UI design, and complex API integrations.
+
+| # | Project Name | Technologies Used | Repository Link |
+|:---:|---|---|---|
+| **1** | Sorting Algorithm Visualizer | React, ReactJS , React State Management | [https://github.com/jayshreeganesh/project-1-sorting-visualizer](https://github.com/jayshreeganesh/project-1-sorting-visualizer) |
+| **2** | Fruit Card Matching Game key frame animations and react hooks | React, Vite, CSS | [https://github.com/jayshreeganesh/project-2-fruit-card-matching](https://github.com/jayshreeganesh/project-2-fruit-card-matching) |
+| **3** | Cellular Automata Simulator (Conway Game of Life Simulation) | React, Vite, CSS | [https://github.com/jayshreeganesh/project-3-game-of-life](https://github.com/jayshreeganesh/project-3-game-of-life) |
+| **4** | Stock Market Application | React, reactjs , chart.js and axios | [https://github.com/jayshreeganesh/project-4-stock-market](https://github.com/jayshreeganesh/project-4-stock-market) |
+| **5** | Typing master clone | React, reactjs | [https://github.com/jayshreeganesh/project-5-typing-master](https://github.com/jayshreeganesh/project-5-typing-master) |
+| **6** | Message board system | React, reactjs | [https://github.com/jayshreeganesh/project-6-message-board](https://github.com/jayshreeganesh/project-6-message-board) |
+| **7** | Fluid simulator | React, reactjs | [https://github.com/jayshreeganesh/project-7-fluid-simulator](https://github.com/jayshreeganesh/project-7-fluid-simulator) |
+| **8** | Personal dairy application | React, reactjs | [https://github.com/jayshreeganesh/project-8-personal-diary](https://github.com/jayshreeganesh/project-8-personal-diary) |
+| **9** | Rubiks cube scramble and timmer applicaton | React, Vite, CSS | [https://github.com/jayshreeganesh/project-9-rubiks-timer](https://github.com/jayshreeganesh/project-9-rubiks-timer) |
+| **10** | PiTweet - Twitter clone | React, reactjs | [https://github.com/jayshreeganesh/project-10-pitweet](https://github.com/jayshreeganesh/project-10-pitweet) |
+| **11** | AI OCR image text extractor | React, Vite, CSS | [https://github.com/jayshreeganesh/project-11-ocr](https://github.com/jayshreeganesh/project-11-ocr) |
+| **12** | Anti Virus Application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-12-antivirus](https://github.com/jayshreeganesh/project-12-antivirus) |
+| **13** | AI Quizbot Application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-13-ai-quizbot](https://github.com/jayshreeganesh/project-13-ai-quizbot) |
+| **14** | Email Validation And Assessment Application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-14-maze-generator](https://github.com/jayshreeganesh/project-14-maze-generator) |
+| **15** | Scientific Graphing And Calculation Application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-15-markdown-editor](https://github.com/jayshreeganesh/project-15-markdown-editor) |
+| **16** | Online File Extension Converter Application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-16-voice-assistant](https://github.com/jayshreeganesh/project-16-voice-assistant) |
+| **17** | Football League Application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-17-meme-generator](https://github.com/jayshreeganesh/project-17-meme-generator) |
+| **18** | PiReddit Reddit clone application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-18-password-generator](https://github.com/jayshreeganesh/project-18-password-generator) |
+| **19** | AI image detector | React, Vite, CSS | [https://github.com/jayshreeganesh/project-19-qr-generator](https://github.com/jayshreeganesh/project-19-qr-generator) |
+| **20** | AI text to speech converter application | React, Vite, CSS | [https://github.com/jayshreeganesh/project-20-pomodoro-timer](https://github.com/jayshreeganesh/project-20-pomodoro-timer) |
+| **21** | LUNA AI chat bot built | React, React and Node Js | [https://github.com/jayshreeganesh/project-21-virtual-piano](https://github.com/jayshreeganesh/project-21-virtual-piano) |
+| **22** | Making Digit Hunt Game | React, React Js | [https://github.com/jayshreeganesh/project-22-color-palette](https://github.com/jayshreeganesh/project-22-color-palette) |
+| **23** | Making 2048 | React, react js | [https://github.com/jayshreeganesh/project-23-2048-game](https://github.com/jayshreeganesh/project-23-2048-game) |
+| **24** | Code editor | React, react and chakra ui | [https://github.com/jayshreeganesh/project-24-code-editor](https://github.com/jayshreeganesh/project-24-code-editor) |
+| **25** | Kryptonite-A Cryptocurrency Tracker | React, React js And CoinGecko | [https://github.com/jayshreeganesh/project-25-crypto-tracker](https://github.com/jayshreeganesh/project-25-crypto-tracker) |
+| **26** | HandeGesture Recognition | React, React,FingerPose & Tensorflow.js | [https://github.com/jayshreeganesh/project-26-hand-gesture](https://github.com/jayshreeganesh/project-26-hand-gesture) |
+| **27** | WALL-E Al Image Generator | React, MERN | [https://github.com/jayshreeganesh/project-27-ai-image-generator](https://github.com/jayshreeganesh/project-27-ai-image-generator) |
+| **28** | AniStream-Anime Web App | React, React And Jikan Api | [https://github.com/jayshreeganesh/project-28-anistream](https://github.com/jayshreeganesh/project-28-anistream) |
+| **29** | The pi chronicle full stack mern blog app | React, Vite, CSS | [https://github.com/jayshreeganesh/project-29-pi-chronicle](https://github.com/jayshreeganesh/project-29-pi-chronicle) |
+| **30** | Expense tracker full stack mern web app | React, Vite, CSS | [https://github.com/jayshreeganesh/project-30-expense-tracker](https://github.com/jayshreeganesh/project-30-expense-tracker) |
+| **31** | Cricinfo-A Cricket Information Web App | React, React js And CricApi | [https://github.com/jayshreeganesh/project-31-cricinfo](https://github.com/jayshreeganesh/project-31-cricinfo) |
+| **32** | Shroom-Video Chat App | React, Reactjs & Socket io | [https://github.com/jayshreeganesh/project-32-video-chat](https://github.com/jayshreeganesh/project-32-video-chat) |
+| **33** | Article Summarizer | React, Reactjs & Rapid API | [https://github.com/jayshreeganesh/project-33-article-summarizer](https://github.com/jayshreeganesh/project-33-article-summarizer) |
+| **34** | Pixels-An Image Gallery Web App | React, React js And Pexels Api | [https://github.com/jayshreeganesh/project-34-pixels-gallery](https://github.com/jayshreeganesh/project-34-pixels-gallery) |
+| **35** | 3-D Shoe customizer | React, react & three js | [https://github.com/jayshreeganesh/project-35-shoe-customizer](https://github.com/jayshreeganesh/project-35-shoe-customizer) |
+| **36** | NBA Web App | React, React Js And Sports Data API | [https://github.com/jayshreeganesh/project-36-nba-app](https://github.com/jayshreeganesh/project-36-nba-app) |
+| **37** | 3-D Car Mini Game | React, React & Three-js | [https://github.com/jayshreeganesh/project-37-3d-car-game](https://github.com/jayshreeganesh/project-37-3d-car-game) |
+| **38** | Planet Fitness - Gym Website | React, Reactjs And Tailwind Css | [https://github.com/jayshreeganesh/project-38-planet-fitness](https://github.com/jayshreeganesh/project-38-planet-fitness) |
+| **39** | Property Rental App | React, Next Js And GraphQL | [https://github.com/jayshreeganesh/project-39-property-rental](https://github.com/jayshreeganesh/project-39-property-rental) |
+| **40** | MyFitness Dude FullStack MERN Fitness Tracker | React, Vite, CSS | [https://github.com/jayshreeganesh/project-40-myfitness-dude](https://github.com/jayshreeganesh/project-40-myfitness-dude) |
+| **41** | Hangman game | React, ReactJS and React hooks | [https://github.com/jayshreeganesh/project-41-hangman](https://github.com/jayshreeganesh/project-41-hangman) |
+| **42** | Keyword Extractor | React, ReactJs and OpenAI API | [https://github.com/jayshreeganesh/project-42-keyword-extractor](https://github.com/jayshreeganesh/project-42-keyword-extractor) |
+| **43** | GitHub profile finder | React, React and React router. | [https://github.com/jayshreeganesh/project-43-github-finder](https://github.com/jayshreeganesh/project-43-github-finder) |
+| **44** | Conway's Game of Life | React, ReactJS | [https://github.com/jayshreeganesh/project-44-game-of-life](https://github.com/jayshreeganesh/project-44-game-of-life) |
+| **45** | Developer portfolio with Advanced animations | React, ReactJS and React | [https://github.com/jayshreeganesh/project-45-portfolio](https://github.com/jayshreeganesh/project-45-portfolio) |
+| **46** | Keeper App: A Google Keep clone | React, Vite, CSS | [https://github.com/jayshreeganesh/project-46-keeper-app](https://github.com/jayshreeganesh/project-46-keeper-app) |
+| **47** | Website Header Design | React, Vite, CSS | [https://github.com/jayshreeganesh/project-47-website-header](https://github.com/jayshreeganesh/project-47-website-header) |
+| **48** | Lyrics Search App | React, ReactJS and context API | [https://github.com/jayshreeganesh/project-48-lyrics-search](https://github.com/jayshreeganesh/project-48-lyrics-search) |
+| **49** | Memory Game | React, React | [https://github.com/jayshreeganesh/project-49-memory-game](https://github.com/jayshreeganesh/project-49-memory-game) |
+| **50** | Snake Xenzia | React, Vite, CSS | [https://github.com/jayshreeganesh/project-50-snake-game](https://github.com/jayshreeganesh/project-50-snake-game) |
+| **51** | React Photo Editor | React, CSS & React Filters | [https://github.com/jayshreeganesh/project-51-photo-editor](https://github.com/jayshreeganesh/project-51-photo-editor) |
+| **52** | CodePen Code Editor Clone | React, React.js | [https://github.com/jayshreeganesh/project-52-codepen-clone](https://github.com/jayshreeganesh/project-52-codepen-clone) |
+| **53** | Game Of Thrones App | React, React.js | [https://github.com/jayshreeganesh/project-53-game-of-thrones](https://github.com/jayshreeganesh/project-53-game-of-thrones) |
+| **54** | React Birthday Reminder App | React, React Js | [https://github.com/jayshreeganesh/project-54-birthday-reminder](https://github.com/jayshreeganesh/project-54-birthday-reminder) |
+| **55** | Search Book (Multipage Library app to search any book ) | React, react. | [https://github.com/jayshreeganesh/project-55-book-search](https://github.com/jayshreeganesh/project-55-book-search) |
+| **56** | Tours & Travel Multi Page Website | React, react.js, CSS, react-router- | [https://github.com/jayshreeganesh/project-56-tours-travel](https://github.com/jayshreeganesh/project-56-tours-travel) |
+| **57** | React Admin Dashboard | React, React.js, Material-Ui, react hooks, Reac | [https://github.com/jayshreeganesh/project-57-admin-dashboard](https://github.com/jayshreeganesh/project-57-admin-dashboard) |
+| **58** | Google Map Travel Advisor app | React, React.js, Geolocation, Google Ma | [https://github.com/jayshreeganesh/project-58-travel-advisor](https://github.com/jayshreeganesh/project-58-travel-advisor) |
+| **59** | Interactive Timeline | React, React, React Hooks, CSS | [https://github.com/jayshreeganesh/project-59-interactive-timeline](https://github.com/jayshreeganesh/project-59-interactive-timeline) |
+| **60** | Using Charts in react and creating Different Clickable Links on Char | React, Vite, CSS | [https://github.com/jayshreeganesh/project-60-react-charts](https://github.com/jayshreeganesh/project-60-react-charts) |
+| **61** | Meal Planner App | React, Spooncular API, React Hooks, CSS, Bootstrap | [https://github.com/jayshreeganesh/project-61-meal-planner](https://github.com/jayshreeganesh/project-61-meal-planner) |
+| **62** | Radio Player App in React | React, Radio-Browser API CSS, React Hooks | [https://github.com/jayshreeganesh/project-62-radio-player](https://github.com/jayshreeganesh/project-62-radio-player) |
+| **63** | Drum Kit | React, React, React Hooks, CSS, JavaScript, Material-UI | [https://github.com/jayshreeganesh/project-63-drum-kit](https://github.com/jayshreeganesh/project-63-drum-kit) |
+| **64** | Build Dice Game | React, React, React Hooks, CSS, Javascript | [https://github.com/jayshreeganesh/project-64-dice-game](https://github.com/jayshreeganesh/project-64-dice-game) |
+| **65** | Pokemon App | React, React, React Hooks, CSS, Api, Bootstrap | [https://github.com/jayshreeganesh/project-65-pokemon-app](https://github.com/jayshreeganesh/project-65-pokemon-app) |
+| **66** | Slot Matching Game | React, React, React Hooks, CSS, Javascript, Materi | [https://github.com/jayshreeganesh/project-66-slot-game](https://github.com/jayshreeganesh/project-66-slot-game) |
+| **67** | Marvel Character App | React, React, React Hooks, Marvel Api, CSS, Boots | [https://github.com/jayshreeganesh/project-67-marvel-app](https://github.com/jayshreeganesh/project-67-marvel-app) |
+| **68** | Meme Generator App | React, React, React Hooks, CSS, Bootstrap | [https://github.com/jayshreeganesh/project-68-meme-generator](https://github.com/jayshreeganesh/project-68-meme-generator) |
+| **69** | Photo Collage Maker | React, React, React Hooks, Bootstrap, CSS, Materi | [https://github.com/jayshreeganesh/project-69-photo-collage](https://github.com/jayshreeganesh/project-69-photo-collage) |
+| **70** | News App | React, React, React Hooks, CSS, Bootstrap, Api | [https://github.com/jayshreeganesh/project-70-news-app](https://github.com/jayshreeganesh/project-70-news-app) |
+| **71** | E-Commerce Platform (Amazon Clone) | React, React & Firebase | [https://github.com/jayshreeganesh/project-71-amazon-clone](https://github.com/jayshreeganesh/project-71-amazon-clone) |
+| **72** | Real-time Chat Application | React, React ChatEngine & Socket.io | [https://github.com/jayshreeganesh/project-72-realtime-chat](https://github.com/jayshreeganesh/project-72-realtime-chat) |
+| **73** | Movies Streaming App (OTT) | React, React, Omdb API, and Bootstrap | [https://github.com/jayshreeganesh/project-73-movies-app](https://github.com/jayshreeganesh/project-73-movies-app) |
+| **74** | Video Sharing Website | React, React, YouTube API, and Material-UI | [https://github.com/jayshreeganesh/project-74-video-sharing](https://github.com/jayshreeganesh/project-74-video-sharing) |
+| **75** | To-Do List Web App | React, React, Material-UI, and State Management | [https://github.com/jayshreeganesh/project-75-todo-app](https://github.com/jayshreeganesh/project-75-todo-app) |
+| **76** | Blogging Platform | React, React, Material-UI, and GNews API | [https://github.com/jayshreeganesh/project-76-blog-platform](https://github.com/jayshreeganesh/project-76-blog-platform) |
+| **77** | Social Networking Site | React, Material-UI, React Hooks, and Google OAu | [https://github.com/jayshreeganesh/project-77-social-network](https://github.com/jayshreeganesh/project-77-social-network) |
+| **78** | Portfolio Resume Website | React, React, Material-UI, and State Manageme | [https://github.com/jayshreeganesh/project-78-portfolio-resume](https://github.com/jayshreeganesh/project-78-portfolio-resume) |
+| **79** | Emoji Search App | React, React, React DOM, HTML5, and CSS3 | [https://github.com/jayshreeganesh/project-79-emoji-search](https://github.com/jayshreeganesh/project-79-emoji-search) |
+| **80** | Breaking Bad Character Finder | React, React, React DOM, and React Conte | [https://github.com/jayshreeganesh/project-80-breaking-bad](https://github.com/jayshreeganesh/project-80-breaking-bad) |
+| **81** | Random Quote Generator | React, React and Heroku Deployment | [https://github.com/jayshreeganesh/project-81-quote-generator](https://github.com/jayshreeganesh/project-81-quote-generator) |
+| **82** | Password Generator App | React, React, React DOM, HTML5, and CSS | [https://github.com/jayshreeganesh/project-82-password-generator](https://github.com/jayshreeganesh/project-82-password-generator) |
+| **83** | Quiz App | React, React, React DOM, HTML5, and SCSS | [https://github.com/jayshreeganesh/project-83-quiz-app](https://github.com/jayshreeganesh/project-83-quiz-app) |
+| **84** | UnSplash Image Gallery | React, React and ReactDOM | [https://github.com/jayshreeganesh/project-84-unsplash-gallery](https://github.com/jayshreeganesh/project-84-unsplash-gallery) |
+| **85** | React Router Demo Application | React, ReactJs, React Router Dom, and Co | [https://github.com/jayshreeganesh/project-85-react-router-demo](https://github.com/jayshreeganesh/project-85-react-router-demo) |
+| **86** | Book Shelf App | React, ReactJs, NPM, CSS, and State Management | [https://github.com/jayshreeganesh/project-86-book-shelf](https://github.com/jayshreeganesh/project-86-book-shelf) |
+| **87** | Note Taking App | React, React and Redux for State Management | [https://github.com/jayshreeganesh/project-87-note-taking-app](https://github.com/jayshreeganesh/project-87-note-taking-app) |
+| **88** | Contact Register App | React, React, NPM, and React Context | [https://github.com/jayshreeganesh/project-88-contact-register](https://github.com/jayshreeganesh/project-88-contact-register) |
+| **89** | Money Management App | React, React, NPM, and React Context | [https://github.com/jayshreeganesh/project-89-money-management](https://github.com/jayshreeganesh/project-89-money-management) |
+| **90** | Resort Booking App | React, React, NPM, and Hooks | [https://github.com/jayshreeganesh/project-90-resort-booking](https://github.com/jayshreeganesh/project-90-resort-booking) |
+| **91** | BMI Calculator | React, React, NPM, and React Context | [https://github.com/jayshreeganesh/project-91-bmi-calculator](https://github.com/jayshreeganesh/project-91-bmi-calculator) |
+| **92** | Furniture Store | React, React and Redux for State Management | [https://github.com/jayshreeganesh/project-92-furniture-store](https://github.com/jayshreeganesh/project-92-furniture-store) |
+| **93** | Scoreboard App | React, ReactJs, NPM, and React Context | [https://github.com/jayshreeganesh/project-93-scoreboard-app](https://github.com/jayshreeganesh/project-93-scoreboard-app) |
+| **94** | Meta Tag Generator Application made | React, React-React Js | [https://github.com/jayshreeganesh/project-94-meta-tag-generator](https://github.com/jayshreeganesh/project-94-meta-tag-generator) |
+| **95** | Food Ordering Web App | React, React, Material-UI, and React Router | [https://github.com/jayshreeganesh/project-95-food-ordering](https://github.com/jayshreeganesh/project-95-food-ordering) |
+| **96** | Weather Web App | React, React, Open Weather API, and CSS | [https://github.com/jayshreeganesh/project-96-weather-app](https://github.com/jayshreeganesh/project-96-weather-app) |
+| **97** | Food Recipe App | React, React, Edamam API, and Firebase Hosting | [https://github.com/jayshreeganesh/project-97-food-recipe](https://github.com/jayshreeganesh/project-97-food-recipe) |
+| **98** | Shopping Cart App | React, React, React Hooks, and External API | [https://github.com/jayshreeganesh/project-98-shopping-cart](https://github.com/jayshreeganesh/project-98-shopping-cart) |
+| **99** | Cafe Menu App | React, React, React Hooks, and Firebase | [https://github.com/jayshreeganesh/project-99-cafe-menu](https://github.com/jayshreeganesh/project-99-cafe-menu) |
+| **100** | Cocktail Hub Web App | React, React, React Hooks, and Context API | [https://github.com/jayshreeganesh/project-100-cocktail-hub](https://github.com/jayshreeganesh/project-100-cocktail-hub) |
+| **101** | Review Posting App | React, React, Material-UI, and CSS | [https://github.com/jayshreeganesh/project-101-review-posting](https://github.com/jayshreeganesh/project-101-review-posting) |
+| **102** | Pomodoro Timer App | React, React, Countdown Timer, and CSS | [https://github.com/jayshreeganesh/project-102-pomodoro-timer](https://github.com/jayshreeganesh/project-102-pomodoro-timer) |
+| **103** | Google Search App | React, React, Tailwind CSS, Google Search API | [https://github.com/jayshreeganesh/project-103-google-search](https://github.com/jayshreeganesh/project-103-google-search) |
+| **104** | Tic-Tac-Toe Game | React, React | [https://github.com/jayshreeganesh/project-104-tic-tac-toe](https://github.com/jayshreeganesh/project-104-tic-tac-toe) |
+| **105** | Word and Letter Counter | React, React, useState, and JavaScript | [https://github.com/jayshreeganesh/project-105-word-counter](https://github.com/jayshreeganesh/project-105-word-counter) |
+| **106** | Currency Converter | React, React | [https://github.com/jayshreeganesh/project-106-currency-converter](https://github.com/jayshreeganesh/project-106-currency-converter) |
+| **107** | Speech Recognition and Voice Assistant App | React, React | [https://github.com/jayshreeganesh/project-107-speech-recognition](https://github.com/jayshreeganesh/project-107-speech-recognition) |
+| **108** | Calculator App | React, React and Hooks | [https://github.com/jayshreeganesh/project-108-calculator](https://github.com/jayshreeganesh/project-108-calculator) |
+| **109** | Budget Tracking App | React, React, Custom Hooks, and Context | [https://github.com/jayshreeganesh/project-109-budget-app](https://github.com/jayshreeganesh/project-109-budget-app) |
+| **110** | Music Player (Spotify Clone) | React, React and Spotify API | [https://github.com/jayshreeganesh/project-110-spotify-clone](https://github.com/jayshreeganesh/project-110-spotify-clone) |
+| **111** | Calendar App | React, Scheduling Functionality | [https://github.com/jayshreeganesh/project-111-calendar-app](https://github.com/jayshreeganesh/project-111-calendar-app) |
+| **112** | Dictionary App | React, React | [https://github.com/jayshreeganesh/project-112-dictionary-app](https://github.com/jayshreeganesh/project-112-dictionary-app) |
+| **113** | YouTube Clone | React, React | [https://github.com/jayshreeganesh/project-113-youtube-clone](https://github.com/jayshreeganesh/project-113-youtube-clone) |
+| **114** | Candy Crush Game | React, React | [https://github.com/jayshreeganesh/project-114-candy-crush](https://github.com/jayshreeganesh/project-114-candy-crush) |
+| **115** | Astronomy Insights | React, React, CSS, and NASA APOD API | [https://github.com/jayshreeganesh/project-115-astronomy-insights](https://github.com/jayshreeganesh/project-115-astronomy-insights) |
+| **116** | Rock, Paper, Scissors Game | React, React, CSS, and Hooks | [https://github.com/jayshreeganesh/project-116-rps-game](https://github.com/jayshreeganesh/project-116-rps-game) |
+| **117** | Real-time Notification App | React, React, CSS, Hooks, and Socket.io | [https://github.com/jayshreeganesh/project-117-notification-app](https://github.com/jayshreeganesh/project-117-notification-app) |
+| **118** | COVID-19 Tracker App | React, React, CSS, and Hooks | [https://github.com/jayshreeganesh/project-118-covid-tracker](https://github.com/jayshreeganesh/project-118-covid-tracker) |
+| **119** | Random GIF Generator App | React, React, Hooks, CSS, API | [https://github.com/jayshreeganesh/project-119-gif-generator](https://github.com/jayshreeganesh/project-119-gif-generator) |
+| **120** | Wildfire Tracker App | React, React, CSS, Asynchronous JS, NASA Open API | [https://github.com/jayshreeganesh/project-120-wildfire-tracker](https://github.com/jayshreeganesh/project-120-wildfire-tracker) |
+
+</details>
