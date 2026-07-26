@@ -209,3 +209,57 @@ I have recently completed an epic marathon of 120 React projects to master front
 
 </details>
 
+---
+
+<details>
+<summary><h3>🔥 Top MERN Stack Projects (GeeksforGeeks Curated)</h3></summary>
+<br>
+
+A collection of basic to advanced MERN stack projects covering diverse domains from e-commerce to social media.
+
+| Project Name | Description | Repository |
+|---|---|:---:|
+| **Stock Market Portfolio App** | The Stock Market Portfolio project is a web application that helps to efficiently manage and track stock market investments and portfolios. | [🔗 View Repo](https://github.com/jayshreeganesh/stock-market-portfolio-app) |
+| **Hospital Management App** | In the fast-paced world of healthcare, it's vital to manage hospital tasks effectively to ensure top-notch patient care | [🔗 View Repo](https://github.com/jayshreeganesh/hospital-management-app) |
+| **Social Media Platform** | creating a “Social Media Website” will showcase and utilising the power of MERN stack – MongoDB, Express, React, and Node. | [🔗 View Repo](https://github.com/jayshreeganesh/social-media-platform) |
+| **Bookstore E-commerce App** | Bookstore E-commerce project is a great way to showcase your understanding of full-stack development. | [🔗 View Repo](https://github.com/jayshreeganesh/bookstore-e-commerce-app) |
+| **Chat Website** | The "Chat Website" project is a dynamic web application that is used for real-time communication. | [🔗 View Repo](https://github.com/jayshreeganesh/chat-website) |
+| **Restaurant App** | Restaurant app will cover a lot of features of the MERN stack. In this tutorial, we’ll guide you through the process of creating a restaurant application using the MERN stack. | [🔗 View Repo](https://github.com/jayshreeganesh/restaurant-app) |
+| **Real Estate Management** | we will guide you through the process of building a Real Estate Management Application using the MERN stack. MERN stands for MongoDB, Express, React, and Node. | [🔗 View Repo](https://github.com/jayshreeganesh/real-estate-management) |
+| **Fruit and Vegetable Market Shop** | we’ll walk through the step-by-step process of creating a Fruit and Vegetable Market Shop using the MERN Stack. | [🔗 View Repo](https://github.com/jayshreeganesh/fruit-and-vegetable-market-shop) |
+| **Event Management Web App** | we’ll walk through the step-by-step process of building a feature-rich Event Management Web App. | [🔗 View Repo](https://github.com/jayshreeganesh/event-management-web-app) |
+| **Expense Tracker** | An Expense Tracker or Budget Management application using the MERN stack is a powerful and versatile solution for individuals or businesses looking to manage their finances effectively. | [🔗 View Repo](https://github.com/jayshreeganesh/expense-tracker) |
+| **Multi Factor Authentication** | Creating a Multi-Factor Authentication (MFA) project using the MERN. This project aims to enhance security by implementing a multi-step authentication process. | [🔗 View Repo](https://github.com/jayshreeganesh/multi-factor-authentication) |
+| **Restaurant Recommendation** | This project showcases a restaurant list with user-filtering capabilities, offering personalized recommendations based on applied filters. | [🔗 View Repo](https://github.com/jayshreeganesh/restaurant-recommendation) |
+| **Address Book** | we will build a Address Book using the MERN stack. The application will enable users to add, remove, edit and view addresses. | [🔗 View Repo](https://github.com/jayshreeganesh/address-book) |
+| **ToDo List App** | Todo list web application using MERN stack is a project that basically implements basic CRUD operation using MERN stack | [🔗 View Repo](https://github.com/jayshreeganesh/todo-list-app) |
+| **Food Delivery App** | Food delivery applications serve as convenient solutions for individuals in fast-paced lifestyles, eliminating the need for cooking or dining out. | [🔗 View Repo](https://github.com/jayshreeganesh/food-delivery-app) |
+| **Car Vault App** | Organizing your vehicle data and keeping the information updated is very necessary for managing your cars. | [🔗 View Repo](https://github.com/jayshreeganesh/car-vault-app) |
+| **Blackjack Game** | We’ll embark on a journey to create a fully functional Blackjack game using React for the frontend and Node for the backend. | [🔗 View Repo](https://github.com/jayshreeganesh/blackjack-game) |
+| **Health Tracker** | We’ll walk through the process of building a Health Tracker application using React for the frontend and Node for the backend. | [🔗 View Repo](https://github.com/jayshreeganesh/health-tracker) |
+| **Summarizer Website** | We can create a Text Summarizer Website using MERN stack with the help of Open AI. | [🔗 View Repo](https://github.com/jayshreeganesh/summarizer-website) |
+| **Notes Maker App** | The "Notes Maker" project is an helpful web application designed to help users effectively create, manage, and organize their notes. | [🔗 View Repo](https://github.com/jayshreeganesh/notes-maker-app) |
+| **Community Forum Page** | In the ever-expanding digital landscape, fostering meaningful connections within communities is paramount. | [🔗 View Repo](https://github.com/jayshreeganesh/community-forum-page) |
+| **Product Review Platform** | Creating a Product Review Platform using MERN Stack. Where users can add products, leave reviews, and delete products. | [🔗 View Repo](https://github.com/jayshreeganesh/product-review-platform) |
+| **Fundraiser Platform** | A fundraising application facilitates streamlined fund collection for various causes or projects through software or web platforms. | [🔗 View Repo](https://github.com/jayshreeganesh/fundraiser-platform) |
+| **Disaster Management Website** | The Comprehensive Disaster Management System with the help of MERN Stack. | [🔗 View Repo](https://github.com/jayshreeganesh/disaster-management-website) |
+| **Blogging Platform** | The blogging platform is developed using the MERN stack, allowing users to create, read, update, and delete blog posts. | [🔗 View Repo](https://github.com/jayshreeganesh/blogging-platform) |
+| **Event Dashboard** | This project will showcase how to set up a full-stack web application where users can manage events by posting details about the event and deleting it when it has been completed. | [🔗 View Repo](https://github.com/jayshreeganesh/event-dashboard) |
+| **Ticket Raising** | The Ticket Raising Platform project is a web application that enables users to create, manage, and track tickets for various issues or tasks. | [🔗 View Repo](https://github.com/jayshreeganesh/ticket-raising) |
+| **Expense Management System** | This project will showcase how to set up a full-stack web application where users can add their budget and put daily expenses that get deducted from the budget. | [🔗 View Repo](https://github.com/jayshreeganesh/expense-management-system) |
+| **Social Fitness App** | This project will help navigate backend development, and teach you the process of integrating frontend functionality with backend infrastructure. | [🔗 View Repo](https://github.com/jayshreeganesh/social-fitness-app) |
+| **Travel Journal App** | This application has features where users can log in and register, make journal entries describing the various places they traveled to, and also upload their images. | [🔗 View Repo](https://github.com/jayshreeganesh/travel-journal-app) |
+| **Text Translation Tool** | This application will provide users with a user-friendly interface for translating text between different languages. | [🔗 View Repo](https://github.com/jayshreeganesh/text-translation-tool) |
+| **Community Marketplace App** | This application provides a place to buy and sell different items in the community. | [🔗 View Repo](https://github.com/jayshreeganesh/community-marketplace-app) |
+| **News Media Platform** | This project has features like users can view a news article, add a new news article, and delete one. | [🔗 View Repo](https://github.com/jayshreeganesh/news-media-platform) |
+| **Note-Taking App with Status Tracker** | This application has functionalities to create a note, delete a note, edit a note, and view the note. | [🔗 View Repo](https://github.com/jayshreeganesh/note-taking-app-with-status-tracker) |
+| **Quiz App** | This application will provide users with a user-friendly interface for taking and submitting quizzes and a scoreboard to check their standing among others. | [🔗 View Repo](https://github.com/jayshreeganesh/quiz-app) |
+| **Task Manager App** | This application helps users to manage their tasks efficiently, offering essential features like creating new tasks, editing existing ones, and deleting tasks as needed. | [🔗 View Repo](https://github.com/jayshreeganesh/task-manager-app) |
+| **Music Playlist App** | The app allows users to manage playlists, add songs, and play their favorite tracks. We’ll cover features like song uploading, playlist creation, and playback functionality. | [🔗 View Repo](https://github.com/jayshreeganesh/music-playlist-app) |
+| **Workout Planner** | With this project user can create custom routines and meals, and also view them. A user can make an entry on a particular day. | [🔗 View Repo](https://github.com/jayshreeganesh/workout-planner) |
+| **Restaurant Recommendation** | This project displays a list of restaurants to the users. Users can apply filters like location, cuisines, and ratings based on filters applied by the user, the user gets recommended specific restaurants. | [🔗 View Repo](https://github.com/jayshreeganesh/restaurant-recommendation) |
+
+</details>
+
+
+
