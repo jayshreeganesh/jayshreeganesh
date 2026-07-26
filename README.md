@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 |---|---|---|---|
 | 1 | **LeetCode SQL 50** | 50 Essential SQL problems (Basic to Intermediate) | [View Repo](https://github.com/jayshreeganesh/leetcode-sql-50) |
 | 2 | **LeetCode Database Premium** | Solutions for LeetCode Database Premium problem set | [View Repo](https://github.com/jayshreeganesh/leetcode-database-premium) |
-| 3 | **SQL Database LeetCode** | Solutions & practices for SQL Database questions | [View Repo](https://github.com/jayshreeganesh/SQL-Database-LeetCode) |
-| 4 | **LeetCode Advanced SQL 50** | Solutions for Advanced SQL 50 problem set | [View Repo](https://github.com/jayshreeganesh/Leetcode-Advanced-SQL-50) |
+| 3 | **SQL Database LeetCode** | Solutions & practices for SQL Database questions | [View Repo](https://github.com/jayshreeganesh/sql-database-leetcode) |
+| 4 | **LeetCode Advanced SQL 50** | Solutions for Advanced SQL 50 problem set | [View Repo](https://github.com/jayshreeganesh/leetcode-advanced-sql-50) |
 | 5 | **LeetCode Daily** | Daily problem-solving solutions & logs | [View Repo](https://github.com/jayshreeganesh/leetcode-daily) |
 ---
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <summary><b>🌐 Full-Stack Projects (30 Projects)</b></summary>
 <br>
 
-| # | Project Name | Core PHP | CodeIgniter | CakePHP | Laravel | React | Next.js |
+| # | Project Name | Core PHP | codeigniter | CakePHP | Laravel | React | Next.js |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | **Multi-Vendor Ecommerce Website** | <a href="https://github.com/jayshreeganesh/php-sqlite-multi-vendor-ecommerce-website" target="_blank" title="php-sqlite-multi-vendor-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/codeigniter-4-multi-vendor-ecommerce-website" target="_blank" title="codeigniter-4-multi-vendor-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/cakephp-5-multi-vendor-ecommerce-website" target="_blank" title="cakephp-5-multi-vendor-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/laravel-12-multi-vendor-ecommerce-website" target="_blank" title="laravel-12-multi-vendor-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/react-19-multi-vendor-ecommerce-website" target="_blank" title="react-19-multi-vendor-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/nextjs-16-multi-vendor-ecommerce-website" target="_blank" title="nextjs-16-multi-vendor-ecommerce-website">🔗</a> |
 | 2 | **Modern Grocery Ecommerce** | <a href="https://github.com/jayshreeganesh/php-sqlite-modern-grocery-ecommerce-website" target="_blank" title="php-sqlite-modern-grocery-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/codeigniter-4-modern-grocery-ecommerce-website" target="_blank" title="codeigniter-4-modern-grocery-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/cakephp-5-modern-grocery-ecommerce-website" target="_blank" title="cakephp-5-modern-grocery-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/laravel-12-modern-grocery-ecommerce-website" target="_blank" title="laravel-12-modern-grocery-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/react-19-modern-grocery-ecommerce-website" target="_blank" title="react-19-modern-grocery-ecommerce-website">🔗</a> | <a href="https://github.com/jayshreeganesh/nextjs-16-modern-grocery-ecommerce-website" target="_blank" title="nextjs-16-modern-grocery-ecommerce-website">🔗</a> |
@@ -208,6 +208,7 @@ I have recently completed an epic marathon of 120 React projects to master front
 | **120** | Wildfire Tracker App | React, React, CSS, Asynchronous JS, NASA Open API | [🔗 View Repo](https://github.com/jayshreeganesh/project-120-wildfire-tracker) |
 
 </details>
+
 
 
 
