@@ -216,3 +216,49 @@ I have recently completed an epic marathon of 120 React projects to master front
 
 
 
+
+## 🚀 38 Web Development Projects (Vanilla JS & React)
+
+I recently built 38 complete full-stack/front-end projects, each implemented in both **Vanilla HTML/JS** and **React (Vite)** to demonstrate component architecture versus vanilla DOM manipulation.
+
+| # | Project Name | Vanilla JS Version | React Version |
+|---|--------------|--------------------|---------------|
+| 01 | Portfolio | [Vanilla Code](https://github.com/jayshreeganesh/p01-portfolio-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p01-portfolio-react-v1) |
+| 02 | Todo List | [Vanilla Code](https://github.com/jayshreeganesh/p02-todo-list-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p02-todo-list-react-v1) |
+| 03 | Weather App | [Vanilla Code](https://github.com/jayshreeganesh/p03-weather-app-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p03-weather-app-react-v1) |
+| 04 | Ecommerce | [Vanilla Code](https://github.com/jayshreeganesh/p04-ecommerce-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p04-ecommerce-react-v1) |
+| 05 | Chat | [Vanilla Code](https://github.com/jayshreeganesh/p05-chat-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p05-chat-react-v1) |
+| 06 | Streaming | [Vanilla Code](https://github.com/jayshreeganesh/p06-streaming-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p06-streaming-react-v1) |
+| 07 | Blog | [Vanilla Code](https://github.com/jayshreeganesh/p07-blog-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p07-blog-react-v1) |
+| 08 | Social | [Vanilla Code](https://github.com/jayshreeganesh/p08-social-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p08-social-react-v1) |
+| 09 | Event | [Vanilla Code](https://github.com/jayshreeganesh/p09-event-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p09-event-react-v1) |
+| 10 | Expense | [Vanilla Code](https://github.com/jayshreeganesh/p10-expense-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p10-expense-react-v1) |
+| 11 | Food | [Vanilla Code](https://github.com/jayshreeganesh/p11-food-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p11-food-react-v1) |
+| 12 | Notes | [Vanilla Code](https://github.com/jayshreeganesh/p12-notes-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p12-notes-react-v1) |
+| 13 | Gallery | [Vanilla Code](https://github.com/jayshreeganesh/p13-gallery-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p13-gallery-react-v1) |
+| 14 | Survey | [Vanilla Code](https://github.com/jayshreeganesh/p14-survey-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p14-survey-react-v1) |
+| 15 | Elearning | [Vanilla Code](https://github.com/jayshreeganesh/p15-elearning-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p15-elearning-react-v1) |
+| 16 | Fitness | [Vanilla Code](https://github.com/jayshreeganesh/p16-fitness-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p16-fitness-react-v1) |
+| 17 | Jobboard | [Vanilla Code](https://github.com/jayshreeganesh/p17-jobboard-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p17-jobboard-react-v1) |
+| 18 | Realestate | [Vanilla Code](https://github.com/jayshreeganesh/p18-realestate-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p18-realestate-react-v1) |
+| 19 | Photo | [Vanilla Code](https://github.com/jayshreeganesh/p19-photo-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p19-photo-react-v1) |
+| 20 | Travel | [Vanilla Code](https://github.com/jayshreeganesh/p20-travel-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p20-travel-react-v1) |
+| 21 | Restaurant | [Vanilla Code](https://github.com/jayshreeganesh/p21-restaurant-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p21-restaurant-react-v1) |
+| 22 | Carrental | [Vanilla Code](https://github.com/jayshreeganesh/p22-carrental-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p22-carrental-react-v1) |
+| 23 | Hospital | [Vanilla Code](https://github.com/jayshreeganesh/p23-hospital-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p23-hospital-react-v1) |
+| 24 | Library | [Vanilla Code](https://github.com/jayshreeganesh/p24-library-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p24-library-react-v1) |
+| 25 | Music | [Vanilla Code](https://github.com/jayshreeganesh/p25-music-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p25-music-react-v1) |
+| 26 | Recipe | [Vanilla Code](https://github.com/jayshreeganesh/p26-recipe-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p26-recipe-react-v1) |
+| 27 | Freelance | [Vanilla Code](https://github.com/jayshreeganesh/p27-freelance-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p27-freelance-react-v1) |
+| 28 | Auction | [Vanilla Code](https://github.com/jayshreeganesh/p28-auction-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p28-auction-react-v1) |
+| 30 | Bookmarking | [Vanilla Code](https://github.com/jayshreeganesh/p30-bookmarking-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p30-bookmarking-react-v1) |
+| 31 | Crowdfunding | [Vanilla Code](https://github.com/jayshreeganesh/p31-crowdfunding-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p31-crowdfunding-react-v1) |
+| 32 | Ats | [Vanilla Code](https://github.com/jayshreeganesh/p32-ats-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p32-ats-react-v1) |
+| 33 | Ai Powered Customer Support Chatbot | [Vanilla Code](https://github.com/jayshreeganesh/p33-ai-powered-customer-support-chatbot-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p33-ai-powered-customer-support-chatbot-react-v1) |
+| 34 | Ai Productivity Assistant | [Vanilla Code](https://github.com/jayshreeganesh/p34-ai-productivity-assistant-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p34-ai-productivity-assistant-react-v1) |
+| 35 | Ai Ecommerce Platform | [Vanilla Code](https://github.com/jayshreeganesh/p35-ai-ecommerce-platform-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p35-ai-ecommerce-platform-react-v1) |
+| 36 | Ai Powered Healthcare Appointment Patient Portal | [Vanilla Code](https://github.com/jayshreeganesh/p36-ai-powered-healthcare-appointment-patient-portal-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p36-ai-powered-healthcare-appointment-patient-portal-react-v1) |
+| 37 | Ai Powered Financial Analytics Dashboard | [Vanilla Code](https://github.com/jayshreeganesh/p37-ai-powered-financial-analytics-dashboard-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p37-ai-powered-financial-analytics-dashboard-react-v1) |
+| 38 | Ai Powered Document Management Knowledge Base System | [Vanilla Code](https://github.com/jayshreeganesh/p38-ai-powered-document-management-knowledge-base-system-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p38-ai-powered-document-management-knowledge-base-system-react-v1) |
+| 39 | Charity Donation Management Platform | [Vanilla Code](https://github.com/jayshreeganesh/p39-charity-donation-management-platform-vanilla-v1) | [React Code](https://github.com/jayshreeganesh/p39-charity-donation-management-platform-react-v1) |
+
