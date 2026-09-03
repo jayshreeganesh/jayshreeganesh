@@ -217,7 +217,9 @@ I have recently completed an epic marathon of 120 React projects to master front
 
 
 
-## 🚀 38 Web Development Projects (Vanilla JS & React)
+<details>
+<summary><h3>🚀 38 Web Development Projects (Vanilla JS & React) (Click to Expand)</h3></summary>
+<br>
 
 I recently built 38 complete full-stack/front-end projects, each implemented in both **Vanilla HTML/JS** and **React (Vite)** to demonstrate component architecture versus vanilla DOM manipulation.
 
@@ -261,4 +263,6 @@ I recently built 38 complete full-stack/front-end projects, each implemented in 
 | 37 | Ai Powered Financial Analytics Dashboard | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/jayshreeganesh/p37-ai-powered-financial-analytics-dashboard-vanilla-v1) | [![Live](https://img.shields.io/badge/Live-Pages-222222?logo=githubpages&logoColor=white)](https://jayshreeganesh.github.io/p37-ai-powered-financial-analytics-dashboard-vanilla-v1/) | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/jayshreeganesh/p37-ai-powered-financial-analytics-dashboard-react-v1) | [![Live](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel&logoColor=white)](https://p37-ai-powered-financial-analytics.vercel.app/) |
 | 38 | Ai Powered Document Management Knowledge Base System | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/jayshreeganesh/p38-ai-powered-document-management-knowledge-base-system-vanilla-v1) | [![Live](https://img.shields.io/badge/Live-Pages-222222?logo=githubpages&logoColor=white)](https://jayshreeganesh.github.io/p38-ai-powered-document-management-knowledge-base-system-vanilla-v1/) | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/jayshreeganesh/p38-ai-powered-document-management-knowledge-base-system-react-v1) | [![Live](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel&logoColor=white)](https://p38-ai-powered-document-management.vercel.app/) |
 | 39 | Charity Donation Management Platform | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/jayshreeganesh/p39-charity-donation-management-platform-vanilla-v1) | [![Live](https://img.shields.io/badge/Live-Pages-222222?logo=githubpages&logoColor=white)](https://jayshreeganesh.github.io/p39-charity-donation-management-platform-vanilla-v1/) | [![Code](https://img.shields.io/badge/Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/jayshreeganesh/p39-charity-donation-management-platform-react-v1) | [![Live](https://img.shields.io/badge/Live-Vercel-000000?logo=vercel&logoColor=white)](https://p39-charity-donation-management-pla.vercel.app/) |
+
+</details>
 
